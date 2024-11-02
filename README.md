@@ -5,6 +5,7 @@
 Packages:
 - numpy
 - Pandas
+
 **Plotting specifics**
 - GeoPandas
 - matplotlib.pyplot
