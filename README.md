@@ -2,14 +2,15 @@
 
 ## checkpoint-1-code.ipynb
 
+Due to NDA with SDG&E, we are unable to share the datasets or show any outputs such as tables, aggregated data, graphs, etc. 
+
 Packages:
 - numpy
 - Pandas
-- **plotting specifics**
+-**plotting specifics**
   - GeoPandas
   - matplotlib.pyplot
   - seaborn
   - Folium
   - Shapely
 
-Because the datasets belong to SDG&E, we are unsure if we have permission to share the datasets in a public Github. 
